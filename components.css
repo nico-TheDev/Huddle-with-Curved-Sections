@@ -96,7 +96,7 @@
     background-color: white;
     height: 100%;
     width: 100%;
-    clip-path: polygon(0% 0%, 100% 0%, 100% 90%,0% 90%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 93%,0% 93%);
     margin-top: 3em;
 }
 
@@ -120,6 +120,6 @@
 
 .footer-curved::before{
     content: url(./images/bg-footer-top-mobile.svg);
-
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%,0% 90%);
 }
 }

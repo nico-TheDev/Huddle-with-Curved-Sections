@@ -29,10 +29,10 @@ h1,h2,h3{
 body{
     font-family: 'Open Sans',sans-serif;
     font-weight: 400;
-    min-width: 375px;
-    max-width: 1440px;
     overflow-x: hidden;
     background-color: white;
+    min-width: 375px;
+    max-width: 1440px;
 }
 
 /* TEXTS */
